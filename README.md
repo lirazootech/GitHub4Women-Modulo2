@@ -2,9 +2,9 @@
 
 | [![GitHub4Women](https://github.com/lirazootech/GitHub4Women-Modulo2/blob/282127ae204294c01e7fcbd75d8339638d2dec91/GitHub4Women.png)](https://www.maismulheres.tech/) |
 |:--:|
-| Este repositório foi criado para praticar a aplicar os conhecimentos adquiridos durante o curso GitHub4Women sobre repositórios e conceitos básicos de Git e GitHub. |
+| Este repositório foi criado para praticar e aplicar os conhecimentos adquiridos durante o curso GitHub4Women sobre repositórios e conceitos básicos de Git e GitHub. |
 
-# Conceito e abordagem:
+# 🎯 Conceito e abordagem:
 
 A atividade visa consolidar o conhecimento apresentado em sala de aula, abordando os seguintes tópicos:
 
@@ -80,7 +80,6 @@ O Sistema Git se tornou fundamental para que eu pudesse fazer todo o controle de
 | [![Microsoft](https://github.com/lirazootech/GitHub4Women-Modulo2/blob/069ae05de973dca5391bc9b6efc8389c71abc934/Microsoft.png)]() |
 |:--:|
 | [![maismulheres.tech](https://github.com/lirazootech/GitHub4Women-Modulo2/blob/069ae05de973dca5391bc9b6efc8389c71abc934/maismulheres.tech.png)](https://www.maismulheres.tech/) |
-| |
 | Este curso é oferecido pela Microsoft em parceria com a WoMakersCODE através da plataforma maismulheres.tech com o objetivo de capacitar e inserir mais mulheres na tecnologia. Ao final do curso, após avaliação as participantes concorrem à premiação do voucher para a certificação GitHub Foundations. |
 
 Copyright © 2024. Feito com 🧡 por <a href="https://github.com/lirazootech/" target="_blank">lirazootech</a> .
