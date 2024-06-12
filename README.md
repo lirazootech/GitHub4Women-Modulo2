@@ -21,7 +21,7 @@ Para realização dessa atividade, eu utilizei algumas tecnologias:
 
 - Git: Sistema de controle de versão distribuído que me possibilitou efetuar mudanças no repositório, commits e solicitações pull através da linha de comando usando o Git Bash.
 
-- Power Shell: 
+- Power Shell: Utilizei para automação rápida de tarefas e processos, o PowerShell consiste em um shell de linha de comando, uma linguagem de script e uma estrutura de gerenciamento de configuralões
 
 ## 🧐 Processo de Criação
 
